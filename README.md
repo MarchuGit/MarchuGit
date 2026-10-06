@@ -1,27 +1,11 @@
-# [Título: tu frase de posicionamiento]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yeseva+One&size=52&duration=2000&pause=200&color=000000&background=FFFFFF00&multiline=true&width=435&height=120&lines=Hi+there!+%F0%9F%91%8B+;I'm+Marchu)](https://git.io/typing-svg)
 
-[Texto de ejemplo] Product Designer UX/UI/CX desde Argentina. Diseño productos digitales integrando IA en todo el proceso.
+#### Digital Product Designer based on Buenos Aires, Argentina.
 
-[Texto de ejemplo] Actualmente trabajo en [empresa o proyecto]. Acá cuento qué construyo, qué escribo y dónde encontrarme.
+13+ years in digital design, turning complexity into clarity across eCommerce, SaaS and enterprise platforms.
 
----
+I map the exceptions, constraints and business logic that shape a real solution, from checkout flows to internal tools, so what ships doesn't just look good: it holds up under real-world use.
 
-## Proyectos
+--
 
-| Proyecto | Descripción |
-| --- | --- |
-| [proyecto-1](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 1. |
-| [proyecto-2](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 2. |
-| [proyecto-3](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 3. |
-
-## Escritos
-
-[Texto de ejemplo] Artículos, notas o casos de estudio.
-
-## Charlas y podcast
-
-[Texto de ejemplo] Charlas, entrevistas o apariciones.
-
----
-
-[Sitio web](https://github.com/MarchuGit) · [LinkedIn](https://github.com/MarchuGit) · [Otro link](https://github.com/MarchuGit)
+I currently work as a freelance Product Designer, offering product design and strategic UX consulting for teams and projects at different stages, from end-to-end research and design to focused input on product decisions.
