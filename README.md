@@ -1,16 +1,27 @@
-## Hi there 👋
+# [Título: tu frase de posicionamiento]
 
-<!--
-**MarchuGit/MarchuGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Texto de ejemplo] Product Designer UX/UI/CX desde Argentina. Diseño productos digitales integrando IA en todo el proceso.
 
-Here are some ideas to get you started:
+[Texto de ejemplo] Actualmente trabajo en [empresa o proyecto]. Acá cuento qué construyo, qué escribo y dónde encontrarme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Proyectos
+
+| Proyecto | Descripción |
+| --- | --- |
+| [proyecto-1](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 1. |
+| [proyecto-2](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 2. |
+| [proyecto-3](https://github.com/MarchuGit) | [Texto de ejemplo] Descripción corta del proyecto 3. |
+
+## Escritos
+
+[Texto de ejemplo] Artículos, notas o casos de estudio.
+
+## Charlas y podcast
+
+[Texto de ejemplo] Charlas, entrevistas o apariciones.
+
+---
+
+[Sitio web](https://github.com/MarchuGit) · [LinkedIn](https://github.com/MarchuGit) · [Otro link](https://github.com/MarchuGit)
